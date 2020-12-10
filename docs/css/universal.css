@@ -1,0 +1,98 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body{
+	font-family:times new roman !important;
+	
+	
+}
+#container{
+	margin:auto;
+	margin-top:40px;
+	width:70%;
+	
+}
+#header{
+	color:black;
+	font-size:24pt;
+	text-align:center;
+	text-transform:uppercase;
+	font-family:georgia;
+	letter-spacing:5px;
+	
+	
+}
+#menu{
+	margin-top:10px;
+	border:1px solid #020731;
+	
+	
+	
+	text-align:center;
+	text-transform:uppercase;
+	
+	color:#E5E5E5;
+	color:gray;
+}
+
+#menu a{
+	color:gray !important;
+	text-decoration:none !important;
+}
+
+#menu a:hover{
+	color:black !important;	
+
+}
+#mainContent{
+	margin-top:10px;
+	
+	padding:5px;
+	border:1px solid gray;
+
+	
+
+}
+#mainContent a{
+	color:#A30E28;
+		
+}
+
+.large{
+	font-size:18pt;	
+}
+
+
+#footer img{
+	float:left;
+	width:22%;
+	border:1px solid #666;
+	margin-left:10px;
+
+}
+.redDot{
+	margin-bottom:2px;
+	padding-left:1%;
+	padding-right:1%;	
+	width:0.8%;
+}
+
+#footer{
+	margin-top:25px;	
+	color:black;
+	font-size:18pt;
+	text-align:center;
+	text-transform:uppercase;
+	font-family:georgia;
+	letter-spacing:5px;
+}
+
+.testimonial{
+	padding:5px;
+	margin-top:20px;
+	border:1px solid black;
+		
+}
+.quote{
+	font-style:italic;	
+}
